@@ -1,0 +1,45 @@
+
+/* global css */
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: black;
+}
+p{
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.brand-logo a{
+    text-decoration: none;
+    color: blue;
+    font-size: 26px;
+    font-weight: 700;
+}
+.login-heading{
+    text-align: center;
+}
+.form-label label{
+    font-size: 20px;
+    font-weight: 500;
+}
+.login-side-image img{
+    width: 50%;
+}
+.support-link{
+     margin-top: 20px;
+     display: grid;
+}
+.support-link a {
+   font-size: 16px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.form-border{
+    border: 0px solid ;
+    padding: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #f6f6ff;
+}

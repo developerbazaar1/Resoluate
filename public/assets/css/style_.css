@@ -1,0 +1,384 @@
+/* custom btn css */
+.custom-btn{
+    text-align: end;
+    margin-top: -35px;
+    margin-bottom: 10px;
+}
+.custom-btn a{
+    border: 1px solid #0F52BA;
+    padding: 12px 30px;
+    border-radius: 6px;
+  font-size: 18px;
+  margin-top: -10px;
+}
+
+.custom-btn i{
+    padding-right: 10px;
+}
+
+/* login css */
+
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: black;
+}
+p{
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.brand-logo a{
+    text-decoration: none;
+    color:#0F52BA;
+    font-size: 32px;
+    font-weight: 700;
+    padding-left: 80px;
+}
+.login-heading{
+    text-align: center;
+}
+.form-label label{
+    font-size: 20px;
+    font-weight: 500;
+}
+.form-label input.form-control {
+margin-bottom: 30px;
+}
+
+.login-side-image img{
+    width: 100%;
+}
+.support-link{
+     margin-top: 20px;
+     display: grid;
+}
+.support-link a {
+   font-size: 14px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.form-border{
+    border: 0px solid ;
+    padding: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #f6f6ff;
+}
+
+.password-filed input.form-control {
+    margin-bottom: 10px;
+}
+/* login css end */
+
+
+/* header css */
+.main-header{
+    height: 70px !important;
+}
+.bell-icon i{
+font-size: 18px;
+color: #001737;
+}
+.bell-icon span{
+    top: -12px !important;
+}
+
+.user-icon i{
+    font-size: 18px; 
+    color: #001737;
+}
+.head-dropdown {
+    top: 40px !important;
+}
+.nav-item a:active{
+    color:#0F52BA;
+}
+/*end header css */
+
+/* footer css */
+.web-footer{
+    margin-top: 40px;
+}
+.resolute-footer .developer-red{
+color: red;
+font-weight: 700;
+}
+.resolute-footer .bazaar-green{
+    color:green;
+    font-weight: 700;
+}
+.resolute-footer {
+    margin-top: 40px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+/* end footer css */
+
+/* dashboard css */
+
+#tpiechart_3d rect {
+   
+    x: 0;
+    y: 0;
+    width: 200px !important;
+    height: 200px !important;
+    stroke: none;
+    stroke-width: 0;
+    fill: rgb(255, 255, 255);
+}    
+
+/* end dashboard css */
+
+/* external contract css */
+
+.external-border{
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    padding: 20px 20px;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 0.25rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 2px 4px 0px;
+    background-color: rgba(245, 245, 255, 0.568);
+
+}
+.file-border{
+    /* margin-left: 20px; */
+    margin-top: 20px;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+   padding-bottom: 55px;
+    text-align: center;
+    border-radius: 0.25rem;
+    border-color: rgb(118, 118, 175);
+}
+.file-border label{
+  font-size: 18px;
+  padding-top: 15px;
+}
+.external-btn{
+    margin:30px 0px;
+}
+.external-btn button{
+font-size: 18px;
+padding: 12px 45px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+background-color: #0F52BA;
+}
+
+.party-one{
+    display: grid;
+    margin-bottom: 12px;
+}
+.party-one label{
+    font-size: 16px;
+}
+.party-one input{
+   padding: 15px;
+   border: 1px solid rgba(72, 94, 144, 0.16);
+   border-radius: 0.25rem;
+}
+.party-one textarea {
+    padding: 15px;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    border-radius: 0.25rem;
+ }
+
+ .multiple-items{
+    margin-bottom: 20px;
+ }
+ .multiple-items .select2-selection--multiple{
+    margin-top: 20px;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    padding: 11px;
+}
+.multiple-items input.select2-search__field {
+font-size: 18px !important;
+width: 600px;
+}
+.multiple-items .select2{
+  width: 533px;
+ }
+
+ /*end external contract css */
+
+/* all contract page css */
+.tab-list a{
+    font-size: 18px;
+}
+.tab-list li{
+    padding-right: 30px;
+}
+.create-new-btn{
+ margin: 40px 0px;
+}
+.create-new-btn a{
+    color: #0F52BA;
+    font-size: 16px;
+    border: 1px solid #0F52BA;
+    padding: 12px 30px;
+    border-radius: 6px;
+    /* background-color: #0000ff; */
+}
+.create-new-btn a:hover{
+    color: #03217a;
+    /* background-color: #03217a; */
+}
+.create-new-btn i{
+    padding-right: 10px;
+}
+.all-contract-content{
+    margin-bottom: 50PX;
+}
+
+.data-table th.wd-20p.sorting {
+width: 90px;
+}
+.table-heading th{
+    font-size: 16px !important;
+}
+table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc {
+ background-color: #0F52BA ;
+    
+}
+.data-table tr.table-heading {
+    background-color: #0F52BA !important;
+    color: #fff;
+}
+
+.nav-link.active {
+    color: #0F52BA !important;
+}
+
+/* owner create page css */
+.back-btn {
+    padding: 8px 18px;
+    border-radius: 6px;
+   
+}
+.back-btn a{
+    color: #0F52BA;
+font-size:20px;
+}
+.back-btn a:hover{
+    color:#03217a;
+    
+}
+.back-btn i{
+    padding-right: 10px;
+}
+.all-new-content{
+    justify-content: center;
+}
+.create-content{
+    justify-content: center;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    margin:60px 130px ;
+    padding: 60px 40px ;
+    margin-bottom: 60px;
+    border-radius: 6px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 2px 4px 0px;
+    background-color: rgba(245, 245, 255, 0.568);
+}
+.create-content label{
+    font-size: 16px;
+}
+.create-content .file-border{
+margin-top: 60px;
+}
+.create-content .file-border i{
+   padding-left: 20px;
+    }
+
+.contract-img img{
+    width: 100%;
+    padding-left: 20px;
+}
+
+/* template page css */
+
+.template-content{
+    margin-bottom: 50px;
+}
+
+/* template new btn css */
+.trade-text{ 
+    display: grid;
+    margin-top:15px;
+}
+.trade-text input{ 
+border: 1px solid rgba(72, 94, 144, 0.16);
+ padding: 15px;
+}
+.Name-text{ 
+    display: grid;
+}
+.Name-text input{ 
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    padding: 15px;
+}
+
+.template-file.create-content .file-border {
+    margin-top: 40px;
+}
+.template-new-content{
+    justify-content: center;
+    margin: 20px 130px;
+}
+
+/* vendor page css */
+.vendor-data-table{
+    margin-bottom: 50px;
+}
+.vendor-data-table div#example2_length {
+display: none;
+}
+.vendor-data-table .dataTables_wrapper .dataTables_filter label {
+    margin-top: -35px !important;
+}
+
+.vendor-sort-btn button{
+    border: 1px solid #0F52BA;
+    padding: 10px 30px;
+    font-size: 16px;
+    color: #0F52BA;
+}
+.vendor-sort-btn button:hover{
+    color: #03217a;
+    
+}
+
+ /* pragya page css*/
+.customer_records input{
+    padding: 15px ;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    border-radius: 0.25rem;
+    width: 80%;
+}
+.customer_records_dynamic input{
+    padding: 15px ;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    border-radius: 0.25rem;
+    width: 80%;
+}
+
+.extra-fields-customer {
+    font-size: 40px;
+    vertical-align: middle;
+}
+.remove a {
+    font-size: 50px;
+    vertical-align: middle;
+}
+.form-fields{
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+}
+label.custom-control-label {
+padding-right: 20px;
+}
+.auto-select{
+    margin-top: 20px;
+}

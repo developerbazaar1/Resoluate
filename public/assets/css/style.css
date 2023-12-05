@@ -1,0 +1,1571 @@
+/* Custom add css */
+
+.nav-aside .nav-link{
+
+    height: 40px;
+
+    font-weight: 500;
+
+}
+
+
+
+/*.party-one input {
+
+    padding: 18px !Important;
+
+}*/
+
+
+
+@media (min-width: 992px){
+
+.content-fixed {
+
+    margin-top: 0px;
+
+}
+
+
+
+.loginpage .content-fixed {
+
+    margin-top: 50px;
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+/* Custom add css */
+
+
+
+
+
+/* sidebar css */
+
+.sidebar-logo a{
+     
+    /*color: #0F52BA;*/
+     color:#1c273c;
+
+}
+
+
+
+.sidebar-height{
+
+    height: 93%;
+
+}
+
+.sidebar-icons i{
+
+    width: 30px;
+
+    font-size: 18px;
+
+    
+
+}
+
+
+
+
+
+
+
+
+
+/* custom btn css */
+
+.custom-btn{
+
+    text-align: end;
+
+    margin-top: -35px;
+
+    margin-bottom: 10px;
+
+}
+
+.custom-btn a{
+
+    border: 1px solid #0F52BA;
+
+    padding: 12px 30px;
+
+    border-radius: 6px;
+
+  font-size: 18px;
+
+  margin-top: -10px;
+
+}
+
+
+
+.custom-btn i{
+
+    padding-right: 10px;
+
+}
+
+
+
+/* login css */
+
+
+
+h2{
+
+    font-size: 36px;
+
+    font-weight: 700;
+
+    color: black;
+
+}
+
+p{
+
+    color: #000;
+
+    font-size: 18px;
+
+    font-weight: 400;
+
+}
+
+
+
+.brand-logo a{
+
+    text-decoration: none;
+
+    color:#0F52BA;
+
+    font-size: 32px;
+
+    font-weight: 700;
+
+    padding-left: 80px;
+
+}
+
+.login-heading{
+
+    text-align: center;
+
+}
+
+.form-label label{
+
+    font-size: 20px;
+
+    font-weight: 500;
+
+}
+
+.form-label input.form-control {
+
+margin-bottom: 30px;
+
+}
+
+
+
+.login-side-image img{
+
+    width: 100%;
+
+}
+
+.support-link{
+
+     margin-top: 20px;
+
+     display: grid;
+
+}
+
+.support-link a {
+
+   font-size: 14px;
+
+    font-weight: 500;
+
+    text-decoration: underline;
+
+}
+
+
+
+.form-border{
+
+    border: 0px solid ;
+
+    padding: 25px;
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    background-color: #f6f6ff;
+
+}
+
+
+
+.password-filed input.form-control {
+
+    margin-bottom: 10px;
+
+}
+
+/* login css end */
+
+
+
+
+
+/* header css */
+
+.main-header{
+
+    height: 70px !important;
+
+}
+
+.bell-icon i{
+
+font-size: 18px;
+
+color: #001737;
+
+}
+
+.bell-icon span{
+
+    top: -12px !important;
+
+}
+
+
+
+.user-icon i{
+
+    font-size: 18px; 
+
+    color: #001737;
+
+}
+
+.head-dropdown {
+
+    top: 40px !important;
+
+}
+
+.nav-item a:active{
+
+    color:#0F52BA;
+
+}
+
+/*end header css */
+
+
+
+/* footer css */
+
+.web-footer{
+
+    margin-top: 40px;
+
+}
+
+.resolute-footer .developer-red{
+
+color: red;
+
+font-weight: 700;
+
+}
+
+.resolute-footer .bazaar-green{
+
+    color:green;
+
+    font-weight: 700;
+
+}
+
+.resolute-footer {
+
+    margin-top: 40px;
+
+    position: fixed;
+
+    width: 100%;
+
+    bottom: 0;
+
+}
+
+/* end footer css */
+
+
+
+/* dashboard css */
+
+
+
+#tpiechart_3d rect {
+
+   
+
+    x: 0;
+
+    y: 0;
+
+    width: 200px !important;
+
+    height: 200px !important;
+
+    stroke: none;
+
+    stroke-width: 0;
+
+    fill: rgb(255, 255, 255);
+
+}    
+
+
+
+/* end dashboard css */
+
+
+
+/* external contract css */
+
+
+
+.external-border{
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    padding: 20px 20px;
+
+    justify-content: center;
+
+    margin-top: 20px;
+
+    border-radius: 0.25rem;
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 2px 4px 0px;
+
+    background-color: rgba(245, 245, 255, 0.568);
+
+
+
+}
+
+.file-border{
+
+    /* margin-left: 20px; */
+
+    /*margin-top: 26px;*/
+
+    margin-top: 38px;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+   /*padding-bottom: 55px;*/
+
+   padding-bottom: 50px;
+
+    text-align: center;
+
+    border-radius: 0.25rem;
+
+    border-color: rgb(118, 118, 175);
+
+}
+
+.file-border label{
+
+  font-size: 18px;
+
+  padding-top: 15px;
+
+}
+
+.external-btn{
+
+    margin:30px 0px;
+
+}
+
+.external-btn button{
+
+font-size: 18px;
+
+padding: 12px 45px;
+
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+/*background-color: #0F52BA;*/
+background-color: #1c273c;
+    border-color: #1c273c;
+
+
+}
+
+
+
+.party-one{
+
+    display: grid;
+
+    margin-bottom: 12px;
+
+}
+
+.party-one label{
+
+    font-size: 16px;
+
+}
+
+.party-one input{
+
+   padding: 25px;
+
+   border: 1px solid rgba(72, 94, 144, 0.16);
+
+   border-radius: 0.25rem;
+
+}
+
+.party-one textarea {
+
+    padding: 15px;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    border-radius: 0.25rem;
+
+ }
+
+
+
+ .multiple-items{
+
+    margin-bottom: 20px;
+
+ }
+
+ .multiple-items .select2-selection--multiple{
+
+    margin-top: 20px;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    padding: 11px;
+
+}
+
+.multiple-items input.select2-search__field {
+
+font-size: 18px !important;
+
+width: 600px;
+
+}
+
+.multiple-items .select2{
+
+  width: 533px;
+
+ }
+
+
+
+ /*end external contract css */
+
+
+
+/* all contract page css */
+
+.tab-list a{
+
+    font-size: 16px;
+
+        font-weight: 500;
+
+}
+
+.tab-list li{
+
+    padding-right: 20px;
+
+}
+
+
+
+
+
+.create-new-btn{
+
+ margin: 40px 0px;
+
+}
+
+.create-new-btn a{
+
+    /*color: #0F52BA;*/
+    color: #1c273c;
+
+    font-size: 16px;
+
+    /*border: 1px solid #0F52BA;*/
+    border: 1px solid #1c273c;
+
+    padding: 12px 30px;
+
+    border-radius: 6px;
+
+    /* background-color: #0000ff; */
+
+}
+
+.create-new-btn a:hover{
+
+    color: #03217a;
+
+    /* background-color: #03217a; */
+
+}
+
+.create-new-btn i{
+
+    padding-right: 10px;
+
+}
+
+.all-contract-content{
+
+    margin-bottom: 50PX;
+
+}
+
+
+
+/*.data-table th.wd-20p.sorting {
+
+width: 90px;
+
+}*/
+
+.data-table th{
+white-space: nowrap;}
+
+.table-heading th{
+
+    font-size: 16px !important;
+
+}
+
+table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc {
+
+/* background-color: #0F52BA ;*/
+
+ background-color: #1c273c;
+    
+
+}
+
+.data-table tr.table-heading {
+
+    background-color: #0F52BA !important;
+
+    background-color: #1c273c !important;
+
+    
+
+    color: #fff;
+
+}
+
+
+
+.nav-link.active {
+
+    color: #0F52BA !important;
+
+}
+
+
+
+.all-contract-content .data-table .edit-icon{
+
+    padding-left: 15px;
+
+}
+
+.all-contract-content .data-table td a{
+
+  text-decoration: underline;
+
+}
+
+
+
+
+
+.alert-btn button{
+
+    float: right;
+
+    margin-top: -8px;
+
+}
+
+.alert-btn strong i{
+
+  padding-right: 10px;
+
+}
+
+.modal-box-content h5{
+
+    font-size: 18px;
+
+    color: #fff;
+
+    padding-top: 6px;
+
+}
+
+.modal-box-content button span{
+
+    font-size: 40px;
+
+    font-weight: 500;
+
+    color: #fff;
+
+}
+
+.modal-box-content{
+
+    background: #0465ac;
+
+    padding: 10px;
+
+    border-radius: 0;
+
+}
+
+.modal-btn{
+
+    justify-content: center;
+
+    border: 0;
+
+ padding:0px;
+
+ margin-bottom: 20px;
+
+}
+
+.body-content{
+
+    font-size: 18px;
+
+    padding: 20px 10px;
+
+}
+
+.data-table td {
+
+vertical-align: middle;
+white-space: nowrap;
+
+
+
+}
+
+
+
+
+
+/* owner create page css */
+
+.back-btn {
+
+    padding: 8px 18px;
+
+    border-radius: 6px;
+
+   
+
+}
+
+.back-btn a{
+
+    color: #0F52BA;
+
+font-size:20px;
+
+}
+
+.back-btn a:hover{
+
+    color:#03217a;
+
+    
+
+}
+
+.back-btn i{
+
+    padding-right: 10px;
+
+}
+
+.all-new-content{
+
+    justify-content: center;
+
+}
+
+.create-content{
+
+    justify-content: center;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    margin:60px 130px ;
+
+    padding: 60px 40px ;
+
+    margin-bottom: 60px;
+
+    border-radius: 6px;
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 2px 4px 0px;
+
+    background-color: rgba(245, 245, 255, 0.568);
+
+}
+
+.create-content label{
+
+    font-size: 16px;
+
+}
+
+.create-content .file-border{
+
+margin-top: 60px;
+
+}
+
+.create-content .file-border i{
+
+   padding-left: 20px;
+
+    }
+
+
+
+.contract-img img{
+
+    width: 100%;
+
+    padding-left: 20px;
+
+}
+
+
+
+/* template page css */
+
+
+
+.template-content{
+
+    margin-bottom: 50px;
+
+}
+
+
+
+/* template new btn css */
+
+.trade-text{ 
+
+    display: grid;
+
+    margin-top:15px;
+
+}
+
+.trade-text input{ 
+
+border: 1px solid rgba(72, 94, 144, 0.16);
+
+ padding: 15px;
+
+}
+
+.Name-text{ 
+
+    display: grid;
+
+}
+
+.Name-text input{ 
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    padding: 15px;
+
+}
+
+
+
+.template-file.create-content .file-border {
+
+    margin-top: 40px;
+
+}
+
+.template-new-content{
+
+    justify-content: center;
+
+    margin: 20px 130px;
+
+}
+
+
+
+/* vendor page css */
+
+.vendor-data-table{
+
+    margin-bottom: 50px;
+
+}
+
+.vendor-data-table div#example2_length {
+
+display: none;
+
+}
+
+.vendor-data-table .dataTables_wrapper .dataTables_filter label {
+
+    margin-top: -35px !important;
+
+}
+
+
+
+.vendor-sort-btn button{
+
+    border: 1px solid #0F52BA;
+
+    padding: 10px 30px;
+
+    font-size: 16px;
+
+    color: #0F52BA;
+
+}
+
+.vendor-sort-btn button:hover{
+
+    color: #03217a;
+
+    
+
+}
+
+
+
+
+
+
+
+/* chat page css */
+
+/*---------chat window---------------*/
+
+/* .container{
+
+    max-width:900px;
+
+} */
+
+
+
+
+
+.chat-heading{
+
+    text-align: center;
+
+    background: #0465ac;
+
+    padding:5px;
+
+    
+
+}
+
+.chat-heading p{
+
+    font-size: 20px;
+
+    letter-spacing: 1px;
+
+    font-weight: 600;
+
+    color: #fff;
+
+    padding-top: 10px;
+
+}
+
+.chat-heading i{
+
+padding-left: 10px;
+
+font-size: 25px;
+
+}
+
+.chat{
+
+    width: 400px;
+
+    /* margin: auto; */
+
+    float: right;
+
+    
+
+}
+
+.messaging {
+
+    padding: 0 0 0px 0;
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 8px 25px 0px;
+
+    border-radius: 6px;
+
+}
+
+.inbox_people {
+
+    background: #fff;
+
+    float: left;
+
+    overflow: hidden;
+
+    width: 30%;
+
+    border-right: 1px solid #ddd;
+
+}
+
+
+
+.inbox_msg {
+
+    clear: both;
+
+    overflow: hidden;
+
+    border-radius: 12px;
+
+    padding: 15px;
+
+}
+
+
+
+.top_spac {
+
+    margin: 20px 0 0;
+
+}
+
+
+
+.recent_heading {
+
+    float: left;
+
+    width: 40%;
+
+}
+
+
+
+.srch_bar {
+
+    display: inline-block;
+
+    text-align: right;
+
+    width: 60%;
+
+}
+
+
+
+.headind_srch {
+
+    padding: 10px 29px 10px 20px;
+
+    overflow: hidden;
+
+    border-bottom: 1px solid #c4c4c4;
+
+}
+
+
+
+.recent_heading h4 {
+
+    color: #0465ac;
+
+    font-size: 16px;
+
+    margin: auto;
+
+    line-height: 29px;
+
+}
+
+
+
+.srch_bar input {
+
+    outline: none;
+
+    border: 1px solid #cdcdcd;
+
+    border-width: 0 0 1px 0;
+
+    width: 80%;
+
+    padding: 2px 0 4px 6px;
+
+    background: none;
+
+}
+
+
+
+.srch_bar .input-group-addon button {
+
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+
+    border: medium none;
+
+    padding: 0;
+
+    color: #707070;
+
+    font-size: 18px;
+
+}
+
+
+
+.srch_bar .input-group-addon {
+
+    margin: 0 0 0 -27px;
+
+}
+
+
+
+.chat_ib h5 {
+
+    font-size: 15px;
+
+    color: #464646;
+
+    margin: 0 0 8px 0;
+
+}
+
+
+
+.chat_ib h5 span {
+
+    font-size: 13px;
+
+    float: right;
+
+}
+
+
+
+.chat_ib p {
+
+    font-size: 12px;
+
+    color: #989898;
+
+    margin: auto;
+
+    display: inline-block;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+}
+
+
+
+.chat_img {
+
+    float: left;
+
+    width: 11%;
+
+}
+
+
+
+.chat_img img {
+
+    width: 100%
+
+}
+
+
+
+.chat_ib {
+
+    float: left;
+
+    padding: 0 0 0 15px;
+
+    width: 88%;
+
+}
+
+
+
+.chat_people {
+
+    overflow: hidden;
+
+    clear: both;
+
+}
+
+
+
+.chat_list {
+
+    border-bottom: 1px solid #ddd;
+
+    margin: 0;
+
+    padding: 18px 16px 10px;
+
+}
+
+
+
+.inbox_chat {
+
+    height: 550px;
+
+    overflow-y: scroll;
+
+}
+
+
+
+.active_chat {
+
+    background: #e8f6ff;
+
+}
+
+
+
+.incoming_msg_img {
+
+    display: inline-block;
+
+    width: 6%;
+
+}
+
+
+
+.incoming_msg_img img {
+
+    width: 100%;
+
+}
+
+
+
+.received_msg {
+
+    display: inline-block;
+
+    padding: 0 0 0 10px;
+
+    vertical-align: top;
+
+    width: 92%;
+
+}
+
+
+
+.received_withd_msg p {
+
+    background: #ebebeb none repeat scroll 0 0;
+
+    border-radius: 0 15px 15px 15px;
+
+    color: #646464;
+
+    font-size: 14px;
+
+    margin: 0;
+
+    padding: 5px 10px 5px 12px;
+
+    width: 100%;
+
+}
+
+
+
+.time_date {
+
+    color: #747474;
+
+    display: block;
+
+    font-size: 12px;
+
+    margin: 8px 0 0;
+
+}
+
+
+
+.received_withd_msg {
+
+    width: 60%;
+
+}
+
+
+
+.mesgs{
+
+    float: left;
+
+    padding: 30px 15px 0 25px;
+
+    width:100%;
+
+}
+
+
+
+.sent_msg p {
+
+    background:#0466ac83;
+
+    border-radius: 12px 15px 15px 0;
+
+    font-size: 14px;
+
+    margin: 0;
+
+    color: #fff;
+
+    padding: 5px 10px 5px 12px;
+
+    width: 100%;
+
+}
+
+
+
+.outgoing_msg {
+
+    overflow: hidden;
+
+    margin: 26px 15px 26px;
+
+}
+
+
+
+.sent_msg {
+
+    float: right;
+
+    width: 60%;
+
+}
+
+
+
+.input_msg_write input {
+
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+
+    border: medium none;
+
+    color: #4c4c4c;
+
+    font-size: 15px;
+
+    min-height: 48px;
+
+    width: 80%;
+
+    outline:none;
+
+}
+
+
+
+.type_msg {
+
+    border-top: 1px solid #c4c4c4;
+
+    position: relative;
+
+    margin-top: 15px;
+
+}
+
+
+
+.msg_send_btn {
+
+    background: #0F52BA;
+
+    border:none;
+
+    border-radius: 50%;
+
+    color: #fff;
+
+    cursor: pointer;
+
+    font-size: 15px;
+
+    height: 33px;
+
+    position: absolute;
+
+    right: 0;
+
+    top: 11px;
+
+    width: 33px;
+
+}
+
+.msg_history {
+
+    height: 380px;
+
+    overflow-y: auto;
+
+}
+
+
+
+.input_msg_write  .file-upload{
+
+    display: flex;
+
+}
+
+.input_msg_write {
+
+    display: flex;
+
+}
+
+.input_msg_write .fa-paperclip:before {
+
+    margin: auto;
+
+}
+
+
+
+.input_msg_write label {
+
+ width: 10px;
+
+}
+
+
+
+
+
+
+
+ /* pragya page css*/
+
+.customer_records input{
+
+    padding: 15px ;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    border-radius: 0.25rem;
+
+    width: 80%;
+
+}
+
+.customer_records_dynamic input{
+
+    padding: 15px ;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+    border-radius: 0.25rem;
+
+    width: 80%;
+
+}
+
+
+
+/*.extra-fields-customer {
+
+    font-size: 40px;
+
+    vertical-align: middle;
+
+    padding-left: 5px;
+
+}
+
+.remove a {
+
+    font-size: 50px;
+
+    vertical-align: middle;
+
+    padding-left: 5px;
+
+    margin-top: -10px !important;
+
+}*/
+
+
+
+.extra-fields-customer {
+
+    font-size: 30px;
+
+    vertical-align: middle;
+
+    padding-left: inherit;
+
+    background: #1c273c;
+
+    height: 42px;
+
+    margin: 0 auto;
+
+    text-align: center !important;
+
+    width: 45px;
+
+    border-radius: 0px 4px 4px 0px;
+
+    color: #fff !important;
+
+}
+
+
+
+
+
+.remove a {
+
+    font-size: 35px;
+
+    vertical-align: middle;
+
+    padding-left: inherit;
+
+    background: #1c273c;
+
+    height: 46px;
+
+    text-align: center !important;
+
+    width: 45px;
+
+    border-radius: 0px 4px 4px 0px;
+
+    color: #fff !important;
+
+    margin-bottom: 5px;
+
+}
+
+.form-fields{
+
+    margin-top: 20px;
+
+    padding: 20px;
+
+    border: 1px solid rgba(72, 94, 144, 0.16);
+
+}
+
+label.custom-control-label {
+
+padding-right: 20px;
+
+}
+
+.auto-select{
+
+    margin-top: 20px;
+
+}
+
